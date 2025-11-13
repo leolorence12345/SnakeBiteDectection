@@ -3,17 +3,17 @@
 **A System For Snake Bite Imaging And Classification**  
 *Pending Patent Approval*
 
-## 🎯 Project Overview
+## Project Overview
 
 Snakebite envenomation is a serious public health challenge, particularly in rural areas with limited access to timely medical care. Accurate snake species identification is critical for administering the correct antivenom, as misidentification can lead to ineffective treatment. This project developed a predictive model that integrates epidemiological data, machine learning, and bite mark imaging to accurately identify the snake species responsible for envenomation.
 
-## 🏆 Key Achievements
+## Key Achievements
 
 - **91% accuracy** in snakebite identification using YOLOv8 on synthetic and clinical bite mark images
 - **1,000+ synthetic bite mark scenarios** constructed, improving dataset diversity and model performance
 - **Hybrid ML model** architected combining image and epidemiological data, validated on **50 real hospital cases**
 
-## 📋 Project Details
+## Project Details
 
 ### Data Acquisition
 
@@ -31,7 +31,7 @@ Due to the scarcity of real-world snakebite data, synthetic data was generated t
 
 The predictive model was trained using both real and synthetic data, incorporating key features like location, time of bite, symptoms, and bite mark images. After optimizing the model, it achieved strong performance metrics, demonstrating its effectiveness in accurately predicting the snake species responsible for a bite. This approach significantly improved predictive accuracy, combining epidemiological data and imaging for real-world applications.
 
-## 📊 Results
+## Results
 
 The results of the predictive model showcased its effectiveness in accurately identifying snake species based on a combination of epidemiological data and bite mark imaging. By integrating real and synthetic data, the model was able to predict the responsible species with a high degree of accuracy, making it a valuable tool for improving snakebite management. The model was tested and validated through many real-world case studies demonstrating its practical application and robustness.
 
@@ -56,39 +56,26 @@ A bite showing no local symptoms but distinct bite marks was accurately identifi
 - No systemic signs of envenomation
 - Incident occurred during heavy rain
 
-## 📄 Patent Documentation
-
-### View Patent Filed Form
-
-**Direct Link**: [View/Download PDF](PatentFiledForm.pdf)
-
-<details>
-<summary>📄 View PDF in Browser (Click to expand)</summary>
+## Patent Documentation
 
 <iframe src="PatentFiledForm.pdf" width="100%" height="800px" style="border: 1px solid #ccc; border-radius: 5px;"></iframe>
 
-**Note:** If the iframe doesn't display (e.g., on GitHub), please use the direct link above or visit the [project website](https://sites.google.com/view/leolorence/patent).
+**Direct Link**: [View/Download PDF](PatentFiledForm.pdf)
 
-</details>
-
-> **Note:** GitHub doesn't support iframe embedding in README files. For the best viewing experience, please:
-> - Click the direct PDF link above, or
-> - Visit the [project website](https://sites.google.com/view/leolorence/patent) for detailed information about the patent
-
-## 🔗 Additional Resources
+## Additional Resources
 
 - **Project Website**: [https://sites.google.com/view/leolorence/patent](https://sites.google.com/view/leolorence/patent)
 - **Collaboration Partner**: Monosha Biotech (Serpentarium and Venom Lab)
 
-## ⚠️ Code Availability
+## Code Availability
 
 **Note:** The source code for this project cannot be shared at this point due to pending patent approval. Once the patent process is complete, code availability will be reassessed.
 
-## 🎓 Research Impact
+## Research Impact
 
 This project addresses a critical gap in snakebite management, particularly in resource-limited settings where expert identification may not be readily available. The combination of deep learning image analysis with epidemiological data provides a robust, practical solution for accurate snake species identification, potentially saving lives through timely and correct antivenom administration.
 
-## 📈 Technical Specifications
+## Technical Specifications
 
 - **Model Architecture**: YOLOv8 for bite mark detection and classification
 - **Data Sources**: 
@@ -99,13 +86,13 @@ This project addresses a critical gap in snakebite management, particularly in r
 - **Performance**: 91% accuracy in snake species identification
 - **Dataset Size**: 1,000+ synthetic scenarios + real clinical data
 
-## 🤝 Acknowledgments
+## Acknowledgments
 
 - **Monosha Biotech** for providing expert knowledge and collaboration
 - Hospital partners for providing real-world case data
 - Research team and advisors
 
-## 📧 Contact
+## Contact
 
 For inquiries about this project, please visit the [project website](https://sites.google.com/view/leolorence/patent) or contact through the provided channels.
 
@@ -113,4 +100,3 @@ For inquiries about this project, please visit the [project website](https://sit
 
 **Status**: Pending Patent Approval  
 **Last Updated**: 2024
-
