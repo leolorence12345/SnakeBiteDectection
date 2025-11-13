@@ -1,7 +1,7 @@
 # Snakebite Identification System
 
 **A System For Snake Bite Imaging And Classification**  
-*Pending Patent Approval*
+*Provisional Patent*
 
 ## Project Overview
 
@@ -58,7 +58,7 @@ A bite showing no local symptoms but distinct bite marks was accurately identifi
 
 ## Patent Documentation
 
-<iframe src="PatentFiledForm.pdf" width="100%" height="800px" style="border: 1px solid #ccc; border-radius: 5px;"></iframe>
+<!-- <iframe src="PatentFiledForm.pdf" width="100%" height="800px" style="border: 1px solid #ccc; border-radius: 5px;"></iframe> -->
 
 **Direct Link**: [View/Download PDF](PatentFiledForm.pdf)
 
@@ -100,3 +100,4 @@ For inquiries about this project, please visit the [project website](https://sit
 
 **Status**: Pending Patent Approval  
 **Last Updated**: 2024
+
