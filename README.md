@@ -58,9 +58,7 @@ A bite showing no local symptoms but distinct bite marks was accurately identifi
 
 ## Patent Documentation
 
-<!-- <iframe src="PatentFiledForm.pdf" width="100%" height="800px" style="border: 1px solid #ccc; border-radius: 5px;"></iframe> -->
-
-**Direct Link**: [View/Download PDF](PatentFiledForm.pdf)
+[View/Download PDF](PatentFiledForm.pdf)
 
 ## Additional Resources
 
@@ -100,4 +98,5 @@ For inquiries about this project, please visit the [project website](https://sit
 
 **Status**: Pending Patent Approval  
 **Last Updated**: 2024
+
 
